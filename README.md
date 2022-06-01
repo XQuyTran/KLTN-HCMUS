@@ -9,9 +9,9 @@
 
 ## Mô tả đề tài
 ### Kiến thức liên quan
-- Lọc cộng tác dựa trên người dùng.
-- Lọc cộng tác dựa trên sản phẩm.
+- Hệ thống tư vấn.
 - K lân cận gần nhất.
+- Truy hồi thông tin.
 
 ### Nội dung thực hiện
 <p align="justify">
